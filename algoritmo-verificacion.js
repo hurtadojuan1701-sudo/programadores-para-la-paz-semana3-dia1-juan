@@ -1,4 +1,4 @@
-const fuente = "confiable"
+const fuente = "caceptada"
 let informacionVerificada = true
 
 console.log("Algoritmo de verificación de información")
